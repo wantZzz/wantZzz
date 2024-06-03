@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-## 📗Here’s a look at what I’ve been working on…
+## 📗Here’s what I’ve been doing lately……
 
 > [**Keyword Dictionary Notes**](https://github.com/wantZzz/Keyword-Dictionary-Notes)
 > 
