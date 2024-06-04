@@ -7,7 +7,7 @@
 > 一個能夠在各網站以關鍵字紀錄筆記的瀏覽器擴充功能<br>
 > A browser extension that can record notes based on keywords on various websites
 
-## ⬇️ What have I used programming languages and tools?
+## ⬇️ What have I used programming languages and tools……
 <p align="left"> 
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
