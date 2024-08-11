@@ -4,8 +4,8 @@
 
 > [**Keyword Dictionary Notes**](https://github.com/wantZzz/Keyword-Dictionary-Notes)
 > 
-> 一個能夠在各網站以關鍵字紀錄筆記的瀏覽器擴充功能<br>
-> A browser extension that can record notes based on keywords on various websites
+> 以關鍵字紀錄跨網站筆記的瀏覽器擴充功能<br>
+> A chrome, edge browser extension for taking notes across web pages
 
 ## ⬇️ What have I used programming languages and tools……
 <p align="left"> 
